@@ -1,0 +1,1 @@
+-Xms128m -Xmx512m -XX:PermSize=128m -XX:MaxPermSize=128m
